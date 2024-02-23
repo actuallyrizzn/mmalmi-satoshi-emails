@@ -12,6 +12,6 @@ The archive is incomplete and contains only emails from my address @cc.hut.fi. M
 
 ## Repository Contents
 
-- `Satoshi - Sirius emails 2009-2011.mhtml`: The original HTML archive of the emails.
+- `satoshi.html: The original HTML archive of the emails.
 - `satoshi.md`: A markdown version of the email archive.
-- `emails_from_markdown_md_with_uid.json`: A JSON file containing structured data extracted from the markdown file.
+- `satoshi.json`: A JSON file containing structured data extracted from the markdown file.
