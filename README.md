@@ -2,7 +2,7 @@
 
 ## Rizzn's Note
 
-Forked this from the original upload Sirius made for his website. Gonna add in community analysis, and clean up the outputs a bit. Follow it for updates.
+Forked this from the original upload Sirius made for his website. Gonna add in community analysis, and clean up the outputs a bit. Follow it for updates. (I might rename this repo, possibly, because Adam Back just released some emails via the Craig trial, and they'd go very well in this repo as a combo item. We'll see).
 
 ## Original Note from Sirius (Martti Malmi)
 
